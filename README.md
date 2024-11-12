@@ -1,4 +1,4 @@
-# pravinskadwe-ME_XSEARCH1-Amazon_QA
+# Harshvardhan-ME_XSEARCH1-Amazon_QA
 
 ## Amazon Store Automation
 
